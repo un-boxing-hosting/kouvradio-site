@@ -58,7 +58,7 @@ li {
 .player, .player2 {
     border: 5px solid black;
     width: 800px;
-    height: 40vh;
+    height: 70vh;
     background-color: rgb(9, 9, 9, 0.5);
   
 }
